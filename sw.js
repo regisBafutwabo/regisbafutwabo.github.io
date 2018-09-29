@@ -10,8 +10,7 @@ self.addEventListener('install',function(e) {
                 '/css/resume.min.css',
                 '/js/resume.js',
                 '/js/resume.min.js',
-                '/vendor',
-                '/scss'
+                '/vendor/bootstrap/css/bootstrap.min.css'
             ]);
 })
 );
