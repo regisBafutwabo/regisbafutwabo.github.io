@@ -14,6 +14,9 @@ body {
         padding-top: 0;
         padding-left: 17rem
     }
+    .no-show {
+        display: block;
+    }
 }
 
 h1,
@@ -120,7 +123,7 @@ p.lead {
     #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: .5rem solid rgba(255, 255, 255, .2)
+        border: .5rem solid rgba(255, 255, 255, .2);
     }
 
     #sideNav .navbar-collapse {
@@ -152,6 +155,10 @@ p.lead {
     #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
         display: block
     }
+    
+    .no-show {
+        display: block;
+    }
 }
 
 section.resume-section {
@@ -171,6 +178,14 @@ section.resume-section .resume-item .resume-date {
 
     section.resume-section .resume-item .resume-date {
         min-width: 18rem
+    }
+    .profile {
+        display: inline-table;
+        text-align: center;
+    }
+    
+    .no-show {
+        display: block;
     }
 }
 
@@ -197,4 +212,15 @@ a:active,
 a:focus,
 a:hover {
     color: mediumseagreen
+}
+
+.no-show {
+    display: none;
+}
+
+
+@media screen and (max-width:768px) {
+ .no-show {
+    display: block;
+    }   
 }
