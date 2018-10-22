@@ -218,6 +218,16 @@ a:hover {
     display: none;
 }
 
+.cisco,
+.devslope {
+    list-style: none;
+}
+
+.cisco img,
+.devslope img {
+    width: 100%;
+}
+
 
 @media screen and (max-width:768px) {
  .no-show {
