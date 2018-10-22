@@ -14,6 +14,7 @@ body {
         padding-top: 0;
         padding-left: 17rem
     }
+
     .no-show {
         display: block;
     }
@@ -155,7 +156,7 @@ p.lead {
     #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
         display: block
     }
-    
+
     .no-show {
         display: block;
     }
@@ -179,11 +180,12 @@ section.resume-section .resume-item .resume-date {
     section.resume-section .resume-item .resume-date {
         min-width: 18rem
     }
+
     .profile {
         display: inline-table;
         text-align: center;
     }
-    
+
     .no-show {
         display: block;
     }
@@ -230,7 +232,7 @@ a:hover {
 
 
 @media screen and (max-width:768px) {
- .no-show {
-    display: block;
-    }   
+    .no-show {
+        display: block;
+    }
 }
