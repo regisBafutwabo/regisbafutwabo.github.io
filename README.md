@@ -1,3 +1,3 @@
-This is my portfolio created for potential employers and stalkers.
+This is my portfolio.
 
 Here is the link https://regisbafutwabo.github.io
