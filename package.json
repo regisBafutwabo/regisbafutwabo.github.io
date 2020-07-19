@@ -2,7 +2,7 @@
   "title": "Resume",
   "name": "startbootstrap-resume",
   "version": "5.0.2",
-  "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+  "description": "My portfolio",
   "keywords": [
     "css",
     "sass",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "David Miller (http://davidmiller.io/)", "Bafutwabo Regis"
   ],
   "repository": {
     "type": "git",
