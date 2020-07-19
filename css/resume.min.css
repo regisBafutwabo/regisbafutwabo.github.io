@@ -79,11 +79,22 @@ p.lead {
 }
 
 .dev-icons {
-    font-size: 3rem
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    width:48px;
+    flex-direction: row;
 }
 
 .dev-icons .list-inline-item i:hover {
     color: mediumaquamarine
+}
+
+.vscode {
+    display: flex;
+    align-items: center;
+    
+    flex-direction: row;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
