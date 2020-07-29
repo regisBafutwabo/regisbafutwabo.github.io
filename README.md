@@ -1,3 +1,1 @@
-This is my portfolio.
-
-Here is the link https://regisbafutwabo.github.io
+This is my portfolio website which highlights my experience and achievements
