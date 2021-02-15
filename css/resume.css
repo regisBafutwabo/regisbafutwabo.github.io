@@ -149,6 +149,21 @@ p.lead {
   }
 }
 
+.certificateContainer {
+  display: flex;
+  flex-direction: row;
+  margin-bottom:20px;
+}
+
+.certificateItem {
+  margin-bottom:20px;
+}
+
+.certificateContainer img {
+  width: 64px !important;
+  height:64px !important;
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;

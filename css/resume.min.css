@@ -250,3 +250,14 @@ a:hover {
         display: block;
     }
 }
+
+.certificateContainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom:20px;
+  }
+  
+  .certificateContainer img {
+    width: 64px !important;
+    height:64px !important;
+  }
